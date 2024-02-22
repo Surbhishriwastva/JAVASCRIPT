@@ -1,0 +1,38 @@
+h1 {
+    background-color: yellow;
+    color: blue;
+    text-transform: capitalize;
+}
+
+body {
+    background-color: pink;
+}
+
+button {
+    color: white;
+    background-color: blue;
+}
+
+.classheading {
+    color: aqua;
+}
+
+#attri {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background-color: red;
+    border: 2px solid black;
+    margin: 8px;
+
+}
+
+#sur {
+    height: 200px;
+    width: 150px;
+    text-align: center;
+    background-color: purple;
+    border: 2px solid black;
+    margin: 8px;
+
+}

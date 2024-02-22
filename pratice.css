@@ -1,0 +1,42 @@
+/*
+h2 {
+    background-color: yellow;
+    color: black;
+}
+
+//  end first que
+*/
+
+/* second que
+.box {
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    margin: 15px;
+    text-align: center;
+}
+*/
+
+
+/* ques 3
+.myclass {
+
+    color: red;
+}
+
+.newclass {
+    background-color: green;
+}
+end */
+
+/* fifth(1)
+*/
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    border-color: yellow;
+    color: black;
+}
